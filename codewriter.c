@@ -1,12 +1,6 @@
 #include "stdio.h"
 #include "string.h"
 #define ROW 350
-
-#include "codewriter.h"
-
-#include "stdio.h"
-#include "string.h"
-#define ROW 350
 #define N 6
 
 #include "codewriter.h"

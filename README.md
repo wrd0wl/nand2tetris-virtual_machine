@@ -4,11 +4,10 @@ This is one of my first projects, so the code may not be well readable. But it w
 
 Run Terminal on your device.
 
-Type 
+Type path to the directory with .c and .h files. 
 ```
 cd home/yourusername/path/to/nand2tetris-virtual_machine-master 
 ```
- - path to the directory with .c and .h files.
 
 Run 
 ```

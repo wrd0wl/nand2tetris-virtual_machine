@@ -1,12 +1,19 @@
-README FOR LINUX USERS
+## README FOR LINUX USERS
 
 This is one of my first projects, so the code may not be well readable. But it works!
 
 Run Terminal on your device.
 
-Type cd home/yourusername/path/to/nand2tetris-virtual_machine-master - path to the directory with .c and .h files.
+Type 
+```
+cd home/yourusername/path/to/nand2tetris-virtual_machine-master 
+```
+ - path to the directory with .c and .h files.
 
-Run make
+Run 
+```
+make
+```
 
 Put .vm files into directory with executor:
 
